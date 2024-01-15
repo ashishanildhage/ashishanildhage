@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Ashish Anil Dhage** here.
+Ashish Anil Dhage here.
 
 - 🔭 I’m currently working on Algobot
 - 🌱 I’m currently learning API Fundamentals & Python for Finance
