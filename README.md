@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ashish Dhage
 
-🔭 **Currently working on:** Enterprise-grade LLM systems at Mott MacDonald  
+🔭 **Currently working on:** Enterprise-grade LLM systems  
 🌱 **Learning:** Advanced AWS Cloud Architecture & Distributed Systems  
 👯 **Looking to collaborate on:** RAG architectures, Knowledge Graphs, Financial ML, and Healthcare AI platforms  
 🤔 **Seeking guidance on:** Scaling LLM inference, Multi-cloud strategies, and Production MLOps  
@@ -14,7 +14,7 @@
 **AI/ML Engineer** with 4+ years of experience deploying **enterprise-scale LLM applications** for UK government clients and global enterprises.
 
 ### 🔥 Key Projects
-- **SRM Suite LLM Applications** (Mott MacDonald): Classification, RAG, and knowledge-graph driven systems using LangChain, LangGraph, and Azure OpenAI
+- **SRM Suite LLM Applications** : Classification, RAG, and knowledge-graph driven systems using LangChain, LangGraph, and Azure OpenAI
 - **Biodiversity Net Gain Platform**: Full-stack AI application serving 3 UK government clients (London Water Recycling, East West Rail, Southern Water)
 - **Auto Cost Calculator**: MLflow-powered observability system optimizing LLM inference costs by 40%
 - **Algorithmic Trading Systems**: Built Python-based trading bots achieving 3.5% weekly ROI with 40% improved risk-return ratios
@@ -39,7 +39,7 @@ FastAPI • Flask • Docker • Azure Pipelines • AWS EC2 • SQL Server • 
 Python • Pandas • NumPy • Plotly Dash • Streamlit • Git • Agile • A/B Testing
 
 **Domains:**  
-Financial Markets • Healthcare • Construction • Automotive • Government Services
+Financial Markets • Construction • Automotive • Government Services
 
 ---
 
